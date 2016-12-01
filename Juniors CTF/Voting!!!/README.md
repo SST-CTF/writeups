@@ -33,4 +33,6 @@ delay 0.5
 closeWebPage("Login page")
 end repeat
 ```
-In another tab I setup an [autoclicking bot](http://www.murgaa.com/auto-clicker-mac/) pointed at our user profile. After about five minutes of AFK we had collected about 250 points. Logging into the user profile gave us the flag: **:(**
+In another tab I setup an [autoclicking bot](http://www.murgaa.com/auto-clicker-mac/) pointed at our user profile. After about five minutes of AFK we had collected about 250 points. Logging into the user profile gave us the flag
+
+Flag: RAINBOWPUKE
