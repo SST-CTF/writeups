@@ -17,7 +17,7 @@ Guess: AAAAAAAAAA
 Returns: 1010000001
 
 The below program bruteforces the flag.
-```
+```shell
 #!/bin/bash
 
 COUNTER=1
