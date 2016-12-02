@@ -28,5 +28,5 @@ cat new.txt | less
 
 If the script returns a string similar to '<E8><C9><F6><C9><CE><E1>_<DE><F5><C4><C5><F3>' it must be decoded on https://2cyr.com/decode/?lang=ru
 
-Flag: ’Ë∆ËÌ¿_˜”‰Â—
+Flag: –•–∏–ñ–∏–Ω–ê_—á–£–¥–µ–°
 
