@@ -1,15 +1,2 @@
 # SST CTF Writeups
-##### Official Database of Writeups and Documentation
-[GIF]
-## Description
-### What
-Lorem
-
-### Why
-Ipsum
-
-## File Organization
-Sit
-
-## Contributors
-Sit
+##### This branch is for docs and assets of master. Do not attempt to modify this branch with explicit permission from an admin.
