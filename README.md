@@ -1,15 +1,22 @@
 # SST CTF Writeups
 ##### Official Database of Writeups and Documentation
-[GIF]
+![GIF of a SST CTF life](https://github.com/SST-CTF/writeups/blob/docs/readme-gif.gif)
 ## Description
 ### What
-Lorem
+*More information will be added soon*
 
 ### Why
-Ipsum
+*More information will be added soon*
 
 ## File Organization
-Sit
+*More information will be added soon*
 
-## Contributors
-Sit
+## Footnotes
+###### Links
+[Link to this GitHub page.](https://github.com/SST-CTF/typing-test)
+
+[Link to our CTF (Programming) team / club.](http://sstctf.org)
+###### Questions?
+If you have any questions, feel free contact us: github@sstctf.org
+###### collaborators
+*More information will be added soon*
