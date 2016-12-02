@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for x in *.jpg; do
+	echo $x " - " $(exiftool $x | grep "Ксерокопия  номер") >> data.log
+done
+
+
