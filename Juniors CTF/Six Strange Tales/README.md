@@ -53,7 +53,7 @@ Through some research, we can change our userAgent.
 On Google Chrome, you need to open your web inspector, and on the bottom tab where the Console appears, next to it are additional options,
 and bring out the _Network Conditions_, and you are able to customize your user agent to be "Gravity Falls".
 
-![Solution Image](https://github.com/SST-CTF/writeups/blob/Tamir-Writeups/Juniors%20CTF/Six%20Strange%20Tales/StrangeTalesSolution.PNG)
+![Solution Image](https://github.com/SST-CTF/writeups/blob/master/Juniors%20CTF/Six%20Strange%20Tales/StrangeTalesSolution.PNG)
 
 From this image, we can test out all of the combinations (top-down, left-right... etc) as it gave us in the original problem
 ```
