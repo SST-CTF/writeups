@@ -6,7 +6,7 @@
 - Can you see these codes? When the six fingered hand touches them, one of the Gravity Falls secrets opens! 
 - Gruncle, but how should we read the secret? From left to right or right to left? Or maybe upside down? 
 - It depends on whether you are a Christian, a Muslim or a Taoist... 
-- ![Problem Image](https://github.com/SST-CTF/writeups/blob/Tamir-Writeups/Juniors%20CTF/Six%20Strange%20Tales/StrangeTalesProblem.PNG)
+![Problem Image](https://github.com/SST-CTF/writeups/blob/Tamir-Writeups/Juniors%20CTF/Six%20Strange%20Tales/StrangeTalesProblem.PNG)
 
 ### Description
 Since this problem was under the **Web** category, it was safe to assume that we would need to look at the source code of the problem.
