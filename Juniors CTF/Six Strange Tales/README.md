@@ -6,7 +6,7 @@
 - Can you see these codes? When the six fingered hand touches them, one of the Gravity Falls secrets opens! 
 - Gruncle, but how should we read the secret? From left to right or right to left? Or maybe upside down? 
 - It depends on whether you are a Christian, a Muslim or a Taoist... 
-- ![alt tag](https://google.com)
+- ![Problem Image](https://github.com/SST-CTF/writeups/blob/Tamir-Writeups/Juniors%20CTF/Six%20Strange%20Tales/StrangeTalesProblem.PNG)
 
 ### Description
 Since this problem was under the **Web** category, it was safe to assume that we would need to look at the source code of the problem.
@@ -53,7 +53,7 @@ Through some research, we can change our userAgent.
 On Google Chrome, you need to open your web inspector, and on the bottom tab where the Console appears, next to it are additional options,
 and bring out the _Network Conditions_, and you are able to customize your user agent to be "Gravity Falls".
 
-[StrangeTalesSolution](https://google.com)
+![Solution Image](https://github.com/SST-CTF/writeups/blob/Tamir-Writeups/Juniors%20CTF/Six%20Strange%20Tales/StrangeTalesSolution.PNG)
 
 From this image, we can test out all of the combinations (top-down, left-right... etc) as it gave us in the original problem
 ```
