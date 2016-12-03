@@ -8,7 +8,7 @@
 - It depends on whether you are a Christian, a Muslim or a Taoist... 
 ![Problem Image](https://github.com/SST-CTF/writeups/blob/Tamir-Writeups/Juniors%20CTF/Six%20Strange%20Tales/StrangeTalesProblem.PNG)
 
-### Description
+### Writeup
 Since this problem was under the **Web** category, it was safe to assume that we would need to look at the source code of the problem.
 We find this interesting script element, with a lot of functions in JavaScript that changes the image.
 
