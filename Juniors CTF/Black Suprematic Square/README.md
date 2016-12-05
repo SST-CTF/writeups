@@ -33,6 +33,7 @@ I can see that there is a hidden image behind the black square with width of 0. 
 </div>
 ```
 ![Image of Flag](http://i.imgur.com/YyHPw50.jpg)
+
 We now transcribe the image, that was painful, but we have the flag.
 
 ###### Flag: aima0AiwahsidupaiToehoong1PhieruqueivahphieKah7uceetair9aiGae1eSsaedoo4becooShohhu8eifahXi7EJoh2gaephechei5chiP9
