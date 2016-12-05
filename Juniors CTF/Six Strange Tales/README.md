@@ -64,6 +64,5 @@ The main thing to look out here is that there is a difference in the **0s** and 
 
 Eventually, we find that the flag is read under the top-down direction
 
-```
-Flag: Maiy2au0Is4feeh3aej8eeThAhWae2Ohdawu0Aebud2juD9a
-```
+##### Flag: Maiy2au0Is4feeh3aej8eeThAhWae2Ohdawu0Aebud2juD9a
+
