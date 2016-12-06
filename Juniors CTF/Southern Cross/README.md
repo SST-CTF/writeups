@@ -23,5 +23,5 @@ The decoded story turns out to be the story [_The Roads We Take_](http://www.onl
 
 Since the hint told us that the ending is greatly important, we try out the last sentence, "Bolivar cannot carry double"
 
-#####Flag: BOLIVARCANNOTCARRYDOUBLE
+######Flag: BOLIVARCANNOTCARRYDOUBLE
 
