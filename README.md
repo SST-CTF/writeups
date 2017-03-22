@@ -37,4 +37,14 @@ If you have any questions, feel free contact us: github@sstctf.org
 - Otakar Andrysek
 - Stanislav Lyakhov
 
+*EasyCTF*
+- Andrew Quach
+- Tamir Enkhjargal
+- Otakar Andrysek
+- Stanislav Lyakhov
+- Dane Miller
+- Kenneth Browder
+- Kevin Tran
+- Sterling Harvey
+
 *More coming soon*
