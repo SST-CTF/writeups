@@ -1,0 +1,28 @@
+# TinyEval
+###### 100 Points
+
+## Problem
+TinyEval brought us to a website that said it would "evaluate anything".
+
+## Hint
+Ha! HAHAHAHAHAHAHAHA!!! No hints for you. TinyEval gave no hints. git gud.
+
+## Writeup
+We know that it executes php commands when we submit anything, so we can use
+echo to have it run a variety of print commands. After some testing, we can
+determine that the input can only handle 11 characters, and echo must be 
+followed by `[command]`, so the "`"s will take up 2 more.
+So we have echo``, taking up 6 characters. 
+So we have 5 more characters, but the file name just by itself is
+huge. So we can't use that. Instead, we can use * to select all the files 
+in the directory. We will also need a space after the comand and before the *,
+so we know that we have echo` *`, taking up 8 characters. We have three  more.
+This means that cat will work.However, that's not fun. Instead,a quick search
+can reveal a list of all linux commands with onlt two characters, so that we
+can put a space between echo and `.  A little digging in this will reveal the
+command "pr", which prints out a file. Entering "echo `pr *`" is only 11
+characters, and will print out all the files. Skimming through this will
+provide the flag "easyctf{it's_2017_anD_we're_still_using_PHP???}".
+
+List used for all 2 character commands:
+http://www.hioreanu.net/cs/two-letter-commands.html
