@@ -13,6 +13,7 @@ Why might the title matter?
 ### Writeup
 From the get-go, since this was a lower point problem, this cipher is probably a simpler one.
 Testing for a vigenere cipher, we go to [dcode](dcode.fr/vigenere-cipher)
+
 Just through a statistical attack, we determine the key to be 
 ```pineapple```
 
