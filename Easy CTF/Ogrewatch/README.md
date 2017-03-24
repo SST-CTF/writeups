@@ -2,7 +2,7 @@
 ##### 100 Points
 
 ### Problem
-My friend was out watching ogres when he heard a strange sound. Could you figure out what it means? [ogreman](https://github.com/SST-CTF/writeups/tree/master/Easy%20CTF/Ogreman/ogreman)
+My friend was out watching ogres when he heard a strange sound. Could you figure out what it means? [ogreman](https://github.com/SST-CTF/writeups/blob/master/Easy%20CTF/Ogrewatch/ogreman)
 
 ### Hint
 If you're having trouble with the file format, Gary Kessler might help.
