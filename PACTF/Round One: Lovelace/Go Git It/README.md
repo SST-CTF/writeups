@@ -1,26 +1,16 @@
-# [ Problem Name ]
-###### [ X ] Points
+# Go Git It
+###### 25 Points
 
 
 ### Problem
-Describe the problem here, or copy-paste the problem description.
+The <i>code samurai</i> (also known by his pseudonym <i>Nicholas</i> was making some final optimizations on his program when... he accidentally decapitated it.
 
+Download the samurai's repository [go git it.tar.bz2](https://2018.pactf.com/static/ctfproblems/1c4e67a4-9fd7-4d11-b8e1-5f528344c01b/go_git_it.tar.427f1b62f4aa.bz2)
 
 ### Hint
-Provide the hint here (copy-paste) if none is provided, delete this whole section.
-
+Perhaps 'chopping a branch off a tree' would be the more precide analogy.
 
 ### Writeup
-List out how you solved the problem. Paragraph form is prefered although you may use bullets or a numbered list if needed.
-
-Keep the paragraphs short and brief. Make sure to document all your code.
-
-```[ Coding Language ]
-int main 
-{
-    return "hello";
-}
-```
 
 
 ###### Flag: [ Flag ]

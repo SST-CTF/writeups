@@ -1,26 +1,14 @@
-# [ Problem Name ]
-###### [ X ] Points
+# Open Sourcery 2018
+###### 30 Points
 
 
 ### Problem
-Describe the problem here, or copy-paste the problem description.
-
+The solution to this problem lies within the Chromium source code. Literally. There is some string in there that mentions a flag and PACTF...
 
 ### Hint
-Provide the hint here (copy-paste) if none is provided, delete this whole section.
-
+This problem builds off of a similarly named problem in PACTF 2017.
 
 ### Writeup
-List out how you solved the problem. Paragraph form is prefered although you may use bullets or a numbered list if needed.
-
-Keep the paragraphs short and brief. Make sure to document all your code.
-
-```[ Coding Language ]
-int main 
-{
-    return "hello";
-}
-```
 
 
 ###### Flag: [ Flag ]
