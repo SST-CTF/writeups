@@ -1,26 +1,16 @@
-# [ Problem Name ]
-###### [ X ] Points
+# Caesar Cipher?
+###### 20 Points
 
 
 ### Problem
-Describe the problem here, or copy-paste the problem description.
+"Cowards die many times before their deaths; the valiant only taste of death but once." (1007, 1008) Are you valiant enough to figure this out?
 
+`5:6 1139:4 1620:3 172:4`
 
 ### Hint
-Provide the hint here (copy-paste) if none is provided, delete this whole section.
-
+There's a lot of text on the Internet and in print. What if you could send messages using all of that data? But you'd have to pick something pretty famous...
 
 ### Writeup
-List out how you solved the problem. Paragraph form is prefered although you may use bullets or a numbered list if needed.
+The title still gives us a hint, as well as the problem quote. This is an excerpt from Shakespeare's Julius Caesar. We also see that this is from lines 1007 and 1008 from the story. I used this [online source][https://www.opensourceshakespeare.org/views/plays/play_view.php?WorkID=juliuscaesar&Scope=entire&pleasewait=1&msg=pl] which has all of the line numbers regardless of Act or Scene. From here now, we look at each line number and the word (l:w). From here, we get our flag word by word.
 
-Keep the paragraphs short and brief. Make sure to document all your code.
-
-```[ Coding Language ]
-int main 
-{
-    return "hello";
-}
-```
-
-
-###### Flag: [ Flag ]
+###### Flag: `the answer is fear`
