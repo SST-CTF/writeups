@@ -7,7 +7,7 @@
 
 Note: the flag contains Cyrillic characters.
 
-[необходимая информация](https://2018.pactf.com/static/ctfproblems/d18474ee-1fbe-44d5-b55e-7fb3d9de99fb/key.490c9f36a766.png)
+[необходимая информация](key.490c9f36a766.png)
 
 
 ### Hint
