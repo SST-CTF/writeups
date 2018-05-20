@@ -1,14 +1,12 @@
-# Go Git It
-###### 25 Points
+# Getting To Know GDB
+###### 50 Points
 
 
 ### Problem
-The <i>code samurai</i> (also known by his pseudonym <i>Nicholas</i> was making some final optimizations on his program when... he accidentally decapitated it.
-
-Download the samurai's repository [go git it.tar.bz2](https://2018.pactf.com/static/ctfproblems/1c4e67a4-9fd7-4d11-b8e1-5f528344c01b/go_git_it.tar.427f1b62f4aa.bz2)
+A friend sent me this [mysterious binary](https://2018.pactf.com/static/ctfproblems/a7ab3479-712f-48b3-bee9-46071bf3aea0/mysterious_elf.771c3c9447cd). It's supposed to print out the flag, but it's giving me a weird poem and some hex instead.
 
 ### Hint
-Perhaps 'chopping a branch off a tree' would be the more precide analogy.
+The flag is <i>in there somewhere</i>, but something gives me the feeling that searching the binary for strings won't help...
 
 ### Writeup
 

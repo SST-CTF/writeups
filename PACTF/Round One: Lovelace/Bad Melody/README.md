@@ -1,14 +1,16 @@
-# Go Git It
-###### 25 Points
+# Bad Melody 
+###### 30 Points
 
 
 ### Problem
-The <i>code samurai</i> (also known by his pseudonym <i>Nicholas</i> was making some final optimizations on his program when... he accidentally decapitated it.
+Our musician friend Martin recently bought a melody pack containing different melodies recorded in MIDI format. He hoped to use them in his electronic music tracks and then pretend that he was the person who actually wrote them. he spent a solid hundred dollars, butthe website selling sample packs fooled him! Instead of 10 wonderful melodies, he only received one MIDI file. It sounded awful, and Martin quickly noticed why!
 
-Download the samurai's repository [go git it.tar.bz2](https://2018.pactf.com/static/ctfproblems/1c4e67a4-9fd7-4d11-b8e1-5f528344c01b/go_git_it.tar.427f1b62f4aa.bz2)
+Can you notice why?
+
+See for yourself: [melody.midi](https://2018.pactf.com/static/ctfproblems/74f8a213-9531-405a-b425-02b38ea80972/melody.4f1964921e6a.mid)
 
 ### Hint
-Perhaps 'chopping a branch off a tree' would be the more precide analogy.
+How would you edit MIDI?
 
 ### Writeup
 

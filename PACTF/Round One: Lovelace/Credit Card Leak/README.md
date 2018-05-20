@@ -1,14 +1,14 @@
-# Go Git It
-###### 25 Points
+# Credit Card Leak
+###### 35 Points
 
 
 ### Problem
-The <i>code samurai</i> (also known by his pseudonym <i>Nicholas</i> was making some final optimizations on his program when... he accidentally decapitated it.
+ShowShop was hacked, and all of their customer records were released online--including credit card numbers. One credit card in the leak is invalid, however. What is the invalid credit card number?
 
-Download the samurai's repository [go git it.tar.bz2](https://2018.pactf.com/static/ctfproblems/1c4e67a4-9fd7-4d11-b8e1-5f528344c01b/go_git_it.tar.427f1b62f4aa.bz2)
+Here's the leak: [cc_leak.txt.bz2](https://2018.pactf.com/static/ctfproblems/97042e12-5f99-4e79-a703-5593d531e4a2/cc_leak.txt.eecc6f896436.bz2)
 
 ### Hint
-Perhaps 'chopping a branch off a tree' would be the more precide analogy.
+The credit card numbers in the leak are obviouslly <i>all</i> invalid, but most would pass a certain credit card validity test. All credit card numbers except one, that is.
 
 ### Writeup
 

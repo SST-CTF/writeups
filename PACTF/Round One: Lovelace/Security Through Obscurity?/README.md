@@ -1,14 +1,16 @@
-# Go Git It
-###### 25 Points
+# Security Through Obscurity?
+###### 50 Points
 
 
 ### Problem
-The <i>code samurai</i> (also known by his pseudonym <i>Nicholas</i> was making some final optimizations on his program when... he accidentally decapitated it.
+We intercepted this message, but we can't make heads or tails of it. It was rattled off so fast, too... How could anyone be that good at using a cipher?
 
-Download the samurai's repository [go git it.tar.bz2](https://2018.pactf.com/static/ctfproblems/1c4e67a4-9fd7-4d11-b8e1-5f528344c01b/go_git_it.tar.427f1b62f4aa.bz2)
+Anyway, here's the message. Good luck!
+
+`Tązhii, Łį́į́ʼ, Dzeeh Mąʼii, Dibé yázhí, Wóláchííʼ, Tłʼízí Tin, Dibé Mósí, Łį́į́ʼ, Dzeeh, Dibé, Tązhii, Dzeeh, Gah, Neeshchʼííʼ, Dzeeh, Béésh dootłʼizh`
 
 ### Hint
-Perhaps 'chopping a branch off a tree' would be the more precide analogy.
+This definitely doesn't look like English. What else could it be? Perhaps looking through the history books might help...
 
 ### Writeup
 
