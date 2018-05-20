@@ -2,7 +2,7 @@
 ###### 10 Points
 
 ### Problem
-Apparently there is something hidden in this [image](https://github.com/SST-CTF/writeups/PACTF)
+Apparently there is something hidden in this [image](problem.jpg)
 
 ### Hint
 You're looking for text--how might you look at the text of the image?
