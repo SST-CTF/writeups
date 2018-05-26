@@ -9,6 +9,12 @@ Dr. K just released her new EP -- download her [track](https://2018.pactf.com/st
 Listen to each bit...
 
 ### Writeup
+The music is great itself, but there's something about the beat... There is a very distinct and rhythmic about it. In Audacity (or any other audio editting software) you should be able to see the Spectrogram view of the audio.
 
+![Audio Spectrogram](bits.png)
 
-###### Flag: [ Flag ]
+It's fairly safe to assume these are bits, ones and zeros. If you take the blue sections as zero: `01100110011011000110000101100111011010010111001101110000011000010110001101110100011001100110110101110101011100110110100101100011` and you convert from binary to ascii, your result is `flagispactfmusic`.
+
+If you take the blue sections as one, it's fine, you will get `10011001100100111001111010011000100101101000110010001111100111101001110010001011100110011001001010001010100011001001011010011100` and result with unreadable ascii. Just reverse the order! 
+
+###### Flag: flagispactfmusic
