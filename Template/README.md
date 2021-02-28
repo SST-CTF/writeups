@@ -15,7 +15,7 @@ List out how you solved the problem. Paragraph form is prefered although you may
 
 Keep the paragraphs short and brief. Make sure to document all your code.
 
-```[ Coding Language ]
+```[Java]
 int main 
 {
     return "hello";
